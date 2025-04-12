@@ -1,6 +1,6 @@
 require("yanendrajha.set")
 require("yanendrajha.remap")
-require("yanendrajha.lazy_init")
+require("yanendrajha.lazy")
 
 -- DO.not
 -- DO NOT INCLUDE THIS
